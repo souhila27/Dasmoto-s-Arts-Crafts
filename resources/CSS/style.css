@@ -1,0 +1,46 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+    background-image: url("./images/pattern.webp");
+    width: 100%;
+    height: 200px;
+}
+
+h1 {
+    
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    margin: 0 auto;
+    text-align: center;
+
+
+}
+
+h2 {
+
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#bruches {
+    background-color: mediumspringgreen;
+}
+
+#frames  {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+
+}
+
+.starting {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
